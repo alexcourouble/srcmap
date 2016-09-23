@@ -30,23 +30,23 @@ This directory contains the srcmap app.
 
 ### dataFiles:
 
-* #### graftedData.csv
+* graftedData.csv
 
-: Contains the data created by *db2csv.py*.
+... Contains the data created by *db2csv.py*.
 
-* #### authColorMapGrafted.csv
+* authColorMapGrafted.csv
 
-: Contains the colors of each authors to display in the list and the plot on the bottom right of the screen. 
+... Contains the colors of each authors to display in the list and the plot on the bottom right of the screen. 
 
 ### scripts
 
-* #### scriptGrafted.js
+* scriptGrafted.js
 
-: Contains the code necessary to generated all the elements of the visualization.
+... Contains the code necessary to generated all the elements of the visualization.
 
-* #### papaparse.min.js 
+* papaparse.min.js 
 
-: Csv reader package to read the author colors.
+... Csv reader package to read the author colors.
 
 
 --------------------------------------------------------------------------------
